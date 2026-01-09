@@ -1,3 +1,4 @@
+pconsole.log("Hello, World!");
 # Globe Android
 
 A composable providing a 3D globe, where you can place markers. Use the compose [animations API](https://developer.android.com/develop/ui/compose/animation/choose-api) to create smooth and performant interactions.
@@ -26,5 +27,5 @@ dependencyResolutionManagement {
 
 2. Add globe-android as a dependency.
 ```
-    implementation("com.github.mullvad:globe-android:main-SNAPSHOT")
+    implementation("com.github.mullvad:globe-android:main-SNAPSHOT")$
 ```
